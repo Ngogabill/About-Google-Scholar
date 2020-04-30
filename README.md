@@ -1,7 +1,7 @@
                         
 <html>
 <head>
-<title></title>
+
 </head>
 <body>
 <h1>About Google Scholar</h1></body>
