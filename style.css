@@ -4,16 +4,13 @@ body{
     font-family:sans-serif; 
 }
 nav.ul {
- display: inline-block;
+ display:block;
  background-color:#00bfff;
 color: #ffffff;
 padding:10px;
 margin: 0px;
 list-style-type: none;
 overflow: hidden;
-width: 010x;
-}
-nav.ul.li
-{
-    display: inline-block;
+width: 100%;
+
 }
