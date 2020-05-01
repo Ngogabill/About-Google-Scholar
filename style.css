@@ -6,7 +6,7 @@ body{
 div.menu {
  display:block;
  background-color:#374c91;
- padding:10px;
+ padding:0px 10px;
  margin:0px;
  list-style-type:none;
  overflow:hidden;
@@ -17,7 +17,7 @@ div.menu {
      text-align:right;
      list-style-type:none;
      float:left;
-     padding:0 50px;
+     padding:0 40px;
      margin:0px;
      
  }
@@ -25,10 +25,17 @@ div.menu {
      color: rgb(255, 255, 255);
  }
  nav button{
-    font-size: 4.005mm;
+     font-size: 4mm;
      color:rgb(255, 255, 255);
      background-color: rgb(22, 122, 214);
-     font-family:serif;
+     float:right;
+     text-align:left;
 
+
+ }
+
+ img{
+     text-align: center;
+     margin-left:300px;
  }
  
