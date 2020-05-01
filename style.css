@@ -3,14 +3,33 @@ body{
     padding:0;
     font-family:sans-serif; 
 }
-nav.menu {
+div.menu {
  display:block;
- background-color:#00bfff;
-color: #ffffff;
-padding:10px;
-margin: 0px;
-list-style-type: none;
-overflow: hidden;
-width: 100%;
-
+ background-color:#223679;
+ color:#f6f8f8;
+ padding:10px;
+ margin:0px;
+ list-style-type:none;
+ overflow:hidden;
+ width: 100%;
+ 
 }
+ nav ul li{
+     text-align:left;
+     list-style-type:none;
+     color:#f6f8f8;
+     float:right;
+     padding:0 60px;
+     margin:0px;
+ }
+ .menu.search-container button {
+    float: right;
+    padding: 6px 10px;
+    margin-top: 8px;
+    margin-right: 16px;
+    background: #ddd;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+  }
+  
