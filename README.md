@@ -8,7 +8,7 @@
 <p>
 this project consists of building a webpage similar to the original webpage of About google scholar .
 heres where u can find the orginal site
-<a href="https://raw.githack.com/Ngogabill/About-Google-Scholar/master/index.html"></a>
+"https://raw.githack.com/Ngogabill/About-Google-Scholar/master/index.html"
 </p>
 <img src="final.PNG">
 <h2>Build with</h2>
