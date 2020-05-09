@@ -5,7 +5,7 @@ body{
 }
 div.menu {
  display:block;
- background-color:#374c91;
+ background-color:#2a57a7;
  padding:0px 10px;
  margin:0px;
  list-style-type:none;
@@ -27,14 +27,31 @@ div.menu {
      color: rgb(255, 255, 255);
  }
  nav button{
-     font-size: 4mm;
+     /*font-size: 4.5mm;
      color:rgb(255, 255, 255);
      background-color: rgb(22, 122, 214);
      float:right;
      text-align:left;
-     margin-left:10px;
-     padding:1px;
-
+     margin-top:1px;
+     padding:0px;
+     text-size-adjust: 1px;*/
+     box-shadow: 0 0 2px rgba(0,0,0,.4), inset 0 0 2px rgba(255,255,255,.4);
+    float: right;
+    margin: 7px 0 0;
+    padding: 5px 12px;
+    position: relative;
+    z-index: 1;
+    color: #fff !important;
+    text-decoration: none;
+    background-color: #4173c9;
+     display: inline-block;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 1.54;
+    text-align: center;
+    border-width: 0px;
+}
 
  }
 
