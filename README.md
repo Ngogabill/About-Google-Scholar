@@ -7,8 +7,7 @@ heres where u can find the orginal site_
 [about google scholar](https://raw.githack.com/Ngogabill/About-Google-Scholar/master/index.html)
 
 
-![](images/C:\Users\User\Desktop\About-Google-Scholar-final.PNG)
-
+![alt text](images/C:\Users\User\Desktop\About-Google-Scholar-final.PNG)
 ## Build with
 
 1. html
