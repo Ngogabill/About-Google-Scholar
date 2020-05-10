@@ -6,8 +6,8 @@ heres where u can find the orginal site_
 
 [about google scholar](https://raw.githack.com/Ngogabill/About-Google-Scholar/master/index.html)
 
-Inline-style:
-![alt text](img src="final.PNG")
+
+![](images/C:\Users\User\Desktop\About-Google-Scholar-final.PNG)
 
 ## Build with
 
