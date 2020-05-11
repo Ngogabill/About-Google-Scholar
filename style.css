@@ -6,7 +6,7 @@ body{
 div.menu {
  display:block;
  background-color:#2a57a7;
- padding:0px 10px;
+ padding:0px;
  margin:0px;
  list-style-type:none;
  overflow:hidden;
@@ -17,14 +17,21 @@ div.menu {
      text-align:right;
      list-style-type:none;
      float:left;
-     padding:0 10px;
+     padding:0px;
      margin:0px;
      margin-left:2px;
      margin-top: 1px;
-
+     margin-left: 150px;
+     inline-size: 0mm;
+     /*word-spacing: 0cm;
+     
+     font-family: arial,sans-serif;
+     line-height: 1.54;*/
+     
  }
  nav a{
      color: rgb(255, 255, 255);
+     font-size: 13px;
  }
  nav button{
      /*font-size: 4.5mm;
@@ -53,11 +60,13 @@ div.menu {
     border-width: 0px;
 }
 
- }
+ 
 
  img{
      text-align: center;
-     margin-left:180px;
-     margin-top:25px;
+     margin-left: 180px;
+     margin-top: 25px;
+     margin-bottom: 1px;
+    
  }
  
